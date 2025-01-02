@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/it-wedsite-lpn/static/css/main.65f95f30.css",
+    "main.js": "/it-wedsite-lpn/static/js/main.0ea6911b.js",
+    "index.html": "/it-wedsite-lpn/index.html",
+    "main.65f95f30.css.map": "/it-wedsite-lpn/static/css/main.65f95f30.css.map",
+    "main.0ea6911b.js.map": "/it-wedsite-lpn/static/js/main.0ea6911b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f95f30.css",
+    "static/js/main.0ea6911b.js"
+  ]
+}
